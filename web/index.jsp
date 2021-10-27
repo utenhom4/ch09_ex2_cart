@@ -1,3 +1,4 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>
@@ -32,6 +33,6 @@
             <button class="btn">
                 <a href="https://homepagegroup4.herokuapp.com/" style="text-decoration: none; color: white; font-size: 15px; margin-top: 2rem;">RETURN TO HOMEPAGE</a>
             </button>
-        </div>   
+        </div> 
     </body>
 </html>
