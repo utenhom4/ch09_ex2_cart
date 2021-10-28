@@ -11,7 +11,7 @@
             <h1 style="letter-spacing: 0;">Checkout isn't finished yet</h1>
             <p style="font-size: 15px">Click below to continue.</p>
             <button class="btn">
-                <a href="index.jsp" style="text-decoration: none; color: white; font-size: 15px;">RETURN</a>
+                <a href="main.jsp" style="text-decoration: none; color: white; font-size: 15px;">RETURN</a>
             </button>
         </div>
     </body>
